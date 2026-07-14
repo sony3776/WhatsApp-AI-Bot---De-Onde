@@ -7,4 +7,4 @@ Bot WA untuk auto-reply pelanggan, jalan di home server ThinkCentre M910q 31GB R
 - **Infra:** Nginx reverse proxy, Docker, Ubuntu 24.04
 - **Fitur:** auto reply, forward ke CS, dashboard web port 3000-3005
 
-Demo: [link wa kamu]
+Demo: +628112104789
